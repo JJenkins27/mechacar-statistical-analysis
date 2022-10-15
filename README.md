@@ -32,8 +32,8 @@ In the above snapshots, the individual variables or coefficients' p-values (Pr(>
 - AWD: 0.1852
 
 Additional information gathered from the linear regression model:
-Multiple R-squared: 0.7149
-Overall p-value: 5.35e-11
+- Multiple R-squared: 0.7149
+- Overall p-value: 5.35e-11
 
 #### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
@@ -74,10 +74,10 @@ Referring to the images above, overall, the variance of the suspension coils (62
 ![t-test-lot3](https://user-images.githubusercontent.com/108373151/196010632-a3ea9989-6d8e-49e2-a4d8-3a3750dbf639.jpg)
 
 In the above snapshots, the p-values are as follows:
-Overall: 0.06028
-Lot 1: 1.00
-Lot 2: 0.6072
-Lot 3: 0.04168
+- Overall: 0.06028
+- Lot 1: 1.00
+- Lot 2: 0.6072
+- Lot 3: 0.04168
 
 Across all manufacturing lots, with a p-value of 0.06028 the PSI is was not below the common 0.05 significance level. Therefore, the PSI across all manufacturing lots in statistically similar from the population mean of 1,500 pounds per square inch. There is not sufficient evidence to reject the null hypothesis.
 
